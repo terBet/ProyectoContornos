@@ -16,8 +16,7 @@ Esta es la **primera vez** que uso *Markdown*, pero seguro que no será la ~~pen
 1. primer item lista
 2. segundo item lista
   * lista sin orden dentro de lista ordenada.
-  * lista sin orden dentro de lista ordenada. 
-   1.lista ordenada dentro de lista sin orden, dentro de lista ordenada.   
+   * lista sin orden dentro de lista sin orden.  
 
 
 
