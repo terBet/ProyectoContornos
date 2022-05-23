@@ -20,14 +20,18 @@ Esta es la **primera vez** que uso *Markdown*, pero seguro que no será la ~~pen
   - sublista desordenada.      
   + [Soy un link a la home page de Google](https://www.google.com)
 
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+### Hola Mundo en distintos lenguajes
+ #### Java:
+```java
+public class Programa {
+ public static void main(String[] args) {
+ System.out.println("Hola mundo!");
+ }
+}
 ```
- 
-```python
-s = "Python syntax highlighting"
-print s
+ #### Swift:
+```swift
+println("Hola Mundo!")
 ```
  
 ```C#
