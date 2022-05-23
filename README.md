@@ -20,7 +20,24 @@ Esta es la **primera vez** que uso *Markdown*, pero seguro que no será la ~~pen
   - sublista desordenada.      
   + [Soy un link a la home page de Google](https://www.google.com)
 
-[Soy un link a la home page de Google](https://www.google.com)
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```C#
+using System;
+class Programa{
+ public static void Main(string[] args) {
+ Console.WriteLine("Hola Mundo!");
+    }
+ }
+```
 
 
 
