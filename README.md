@@ -17,7 +17,8 @@ Esta es la **primera vez** que uso *Markdown*, pero seguro que no será la ~~pen
 2. segundo item lista
   * lista sin orden dentro de lista ordenada
 3. tercer item lista
-  1. primer item de sublista ordenada.      
+  - sublista desordenada.      
+  + sublista desordenada.
 
 
 
