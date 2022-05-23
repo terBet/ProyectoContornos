@@ -18,7 +18,7 @@ Esta es la **primera vez** que uso *Markdown*, pero seguro que no será la ~~pen
   * lista sin orden dentro de lista ordenada
 3. tercer item lista
   - sublista desordenada
-   - [Soy un link a la home page de Google](https://www.google.com)
+    - [Soy un link a la home page de Google](https://www.google.com)
 
 ### Hola Mundo en distintos lenguajes
  #### Java:
