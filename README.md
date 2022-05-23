@@ -43,6 +43,6 @@ class Programa{
  }
 ```
 
-####Mención a @ ._Berto-D
+####Mención a @ .-Berto-D
 
 [^1]: esto es una imagen delorem picsum, que es una web que nos genera una imagen aleatoria.
