@@ -45,7 +45,7 @@ class Programa{
 
 Como dijo @Berto-D:
 
-> Sígueme y te sigo
-> networking.
+> Sígueme y te sigo, 
+> **networking**.
 
 [^1]: esto es una imagen delorem picsum, que es una web que nos genera una imagen aleatoria.
