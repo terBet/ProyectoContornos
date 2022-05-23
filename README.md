@@ -48,4 +48,6 @@ Como dijo @Berto-D:
 > Sígueme y te sigo, 
 > **networking**.
 
+![alt text](http://gifgifs.com/animations/other-animations/money/animated-money-falling.gif)
+
 [^1]: esto es una imagen delorem picsum, que es una web que nos genera una imagen aleatoria.
