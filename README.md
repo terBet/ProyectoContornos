@@ -18,7 +18,7 @@ Esta es la **primera vez** que uso *Markdown*, pero seguro que no será la ~~pen
   * lista sin orden dentro de lista ordenada
 3. tercer item lista
   - sublista desordenada.      
-  + [Soy un link a la home page de Google](https://www.google.com)
+   + [Soy un link a la home page de Google](https://www.google.com)
 
 ### Hola Mundo en distintos lenguajes
  #### Java:
@@ -33,7 +33,7 @@ public class Programa {
 ```swift
 println("Hola Mundo!")
 ```
- 
+ #### C#:
 ```C#
 using System;
 class Programa{
@@ -43,6 +43,6 @@ class Programa{
  }
 ```
 
-
+####Mención @terBet
 
 [^1]: esto es una imagen delorem picsum, que es una web que nos genera una imagen aleatoria.
